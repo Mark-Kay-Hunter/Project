@@ -7,9 +7,9 @@
 
 	#upper { width:auto; height:100px; background:#EDEDED; }
 	#link { width:auto; height:20px; background:#DCDCDC; }
-	#menu { width:150px; height:500px; background:#CBCBCB; float:left; }
-	#main { width:750px; height:500px; background:#BABABA; float:left; }
-	#footer { width:auto; height:100px; background:#A9A9A9; clear:both; }
+	#menu { width:auto; height:150px; background:#CBCBCB; }
+	#main { width:auto; height:500px; background:#BABABA; }
+	#footer { width:auto; height:100px; background:#A9A9A9; }
 
 	</style>
 
